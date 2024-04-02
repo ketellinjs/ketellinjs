@@ -1,9 +1,5 @@
-<img src=""
-## bem-vindo(a) ao meu perfil!
-- Me chamo ketellin, tenho 21 anos e sou estudante de análise e desenvolvimento de sistemas
-
- <div>
-   <a href="https://github.com/ketellinjs">
+<img align="center" alt="image" src="https://raw.githubusercontent.com/ketellinjs/ketellinjs/main/eu.png">
+<a href="https://github.com/ketellinjs">
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +9,7 @@
  
 <br>
  
-###  contato:
+###  redes sociais:
  
 <div> 
   <a href="https://instagram.com/k.etellin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
