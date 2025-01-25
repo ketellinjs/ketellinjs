@@ -1,12 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
-### Olá, eu sou a Ketellin :)
+# 🌺 Olá, eu sou a Ketellin :)
 
 
-## Sobre mim
+### Sobre mim
 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas, e estou começando minha jornada na programação. Atualmente em busca de conhecimento em novas linguagens, frameworks e ferramentas que vão me ajudar a me tornar uma desenvolvedora ágil e versátil.
 
-## Interesses e Tecnologias que estou explorando:
+### Interesses e Tecnologias que estou explorando:
 <table>
   <tr>
     <td>
@@ -17,12 +17,12 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ketellinjs&show_icons=true&theme=tokyonight">
     </td>
     <td>
-      <img src="octocat-1737824702793.png" width="180px">
+      <img src="octocat-1737824702793.png" width="280px">
     </td>
   </tr>
 </table>
 
-## Contato:
+### Contato:
 <div>
 <a href="https://instagram.com/k.etellin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ketellin-tavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
