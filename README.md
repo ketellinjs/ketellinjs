@@ -14,5 +14,5 @@
 ## Contato:
 
 [![Instagram](https://img.shields.io/badge/-{K.etellin}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
-[![Twitter Follow](https://img.shields.io/twitter/follow/ketkkkjs?style=social)]({Link})
+[![Twitter Follow](https://img.shields.io/twitter/follow/ketkkkjs?style=social)]({https://www.instagram.com/k.etellin?igsh=Zm90czJuNnYzMmRs&utm_source=qr})
 
