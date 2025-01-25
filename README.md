@@ -1,5 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-# 🚀 Olá, eu sou a Ketellin :)
+<h1 style="color:#FFC0CB;">🚀 Olá, eu sou a Ketellin :) </h1>
+
 
 ## Sobre mim
 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas, e estou começando minha jornada na programação. Atualmente em busca de conhecimento em novas linguagens, frameworks e ferramentas que vão me ajudar a me tornar uma desenvolvedora ágil e versátil.
