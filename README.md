@@ -12,7 +12,6 @@
 ![Ketellinjs GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketellinjs&show_icons=true&theme=radical)
 
 ## Contato:
-
-[![Instagram](https://img.shields.io/badge/-{K.etellin}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
-[![Twitter Follow](https://img.shields.io/twitter/follow/ketkkkjs?style=social)]({https://www.instagram.com/k.etellin?igsh=Zm90czJuNnYzMmRs&utm_source=qr})
+<div>
+<a href="https://instagram.com/k.etellin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></
 
