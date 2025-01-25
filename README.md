@@ -7,10 +7,20 @@
 
 ## Interesses e Tecnologias que estou explorando:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)](https://skillicons.dev)
-
-
-![Ketellinjs GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketellinjs&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/octocat.png" width="180px">
+    </td>
+    <td>
+      <div>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,github" />
+      </div>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=ketellinjs&show_icons=true&theme=tokyonight">
+    </td>
+  </tr>
+</table>
 
 ## Contato:
 <div>
