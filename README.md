@@ -6,18 +6,17 @@
 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas, e estou começando minha jornada na programação. Atualmente em busca de conhecimento em novas linguagens, frameworks e ferramentas que vão me ajudar a me tornar uma desenvolvedora ágil e versátil.
 
 ## Interesses e Tecnologias que estou explorando:
-
 <table>
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/octocat.png" width="180px">
-    </td>
     <td>
       <div>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,github" />
       </div>
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=ketellinjs&show_icons=true&theme=tokyonight">
+    </td>
+    <td>
+      <img src="octocat-1737824702793.png" width="180px">
     </td>
   </tr>
 </table>
