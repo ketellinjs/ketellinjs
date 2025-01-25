@@ -4,7 +4,7 @@
 ## Sobre mim
 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas, e estou começando minha jornada na programação. Atualmente em busca de conhecimento em novas linguagens, frameworks e ferramentas que vão me ajudar a me tornar uma desenvolvedora ágil e versátil.
 
-## Interesses e Tecnologias que Estou Explorando:
+## Interesses e Tecnologias que estou explorando:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)](https://skillicons.dev)
 
