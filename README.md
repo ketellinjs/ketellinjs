@@ -11,7 +11,7 @@
   <tr>
     <td>
       <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,github" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,github" />
       </div>
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=ketellinjs&show_icons=true&theme=tokyonight">
