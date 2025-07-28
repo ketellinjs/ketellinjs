@@ -4,14 +4,14 @@
 
 
 ### Sobre mim
-🌱 Tenho 22 anos, sou estudante de Análise e Desenvolvimento de Sistemas e estou começando minha jornada na programação. Atualmente em busca de conhecimento em novas linguagens, frameworks e ferramentas que vão me ajudar a me tornar uma desenvolvedora ágil e versátil.
+🌱 Tenho 23 anos, sou estudante de Análise e Desenvolvimento de Sistemas e estou começando minha jornada na programação. Atualmente em busca de conhecimento em novas linguagens, frameworks e ferramentas que vão me ajudar a me tornar uma desenvolvedora ágil e versátil.
 
 ### Interesses e Tecnologias que estou explorando:
 <table>
   <tr>
     <td>
       <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,github" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,github,python" />
       </div>
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=ketellinjs&show_icons=true&theme=tokyonight">
