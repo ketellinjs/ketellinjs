@@ -17,7 +17,6 @@
     </td>
     <td>
       <img src="octocat-1737824702793.png" width="280px">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketellinjs&layout=compact)
     </td>
   </tr>
 </table>
