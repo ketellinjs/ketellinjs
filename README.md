@@ -5,7 +5,6 @@
 
 ### Sobre mim
 🌱 Tenho 23 anos, sou estudante de Análise e Desenvolvimento de Sistemas e estou começando minha jornada na programação. Atualmente em busca de conhecimento em novas linguagens, frameworks e ferramentas que vão me ajudar a me tornar uma desenvolvedora ágil e versátil.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketellinjs&layout=compact)
 ### Interesses e Tecnologias que estou explorando:
 <table>
   <tr>
@@ -18,6 +17,7 @@
     </td>
     <td>
       <img src="octocat-1737824702793.png" width="280px">
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketellinjs&layout=compact)
     </td>
   </tr>
 </table>
