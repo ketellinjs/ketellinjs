@@ -1,6 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 # 🌺 Olá, eu sou a Ketellin :)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketellinjs&layout=compact)
 
 
 ### Sobre mim
