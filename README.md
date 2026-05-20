@@ -5,7 +5,7 @@
 <div align="center">
 <p style="text-decoration: none;">
   
-  <a href="linkedin.com/in/ketellin-tavares/" target="_blank">
+  <a href="linkedin.com/in/ketellin-tavares" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121212" alt="LinkedIn" />
   </a>
 
