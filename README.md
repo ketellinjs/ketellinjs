@@ -22,9 +22,9 @@
 
 Olá! Me chamo **Ketellin**, sou estudante de Análise e Desenvolvimento de Sistemas na **Uniritter** e grande entusiasta da tecnologia.
 
-Atualmente, dedico minha rotina aos estudos diários de engenharia de software para construir uma base técnica sólida. Meu objetivo principal é atuar como desenvolvedora **Full-Stack com foco em Back-end**.
+Meu objetivo principal é atuar como desenvolvedora **Full-Stack com foco em Back-end e Dados**.
 
-Concentro meus esforços em lógica de programação, estruturas de dados e desenvolvimento de aplicações robustas utilizando **Java** como principal linguagem.
+Atualmente concentro meus estudos em lógica de programação, estruturas de dados e desenvolvimento de aplicações em Java.
 
 ---
 
