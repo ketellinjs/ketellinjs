@@ -37,7 +37,7 @@ Atualmente concentro meus estudos em lógica de programação, estruturas de dad
 ## 📚 Atualmente estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,mysql" />
 </p>
 
 ## 🏆 GitHub Stats
