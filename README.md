@@ -22,16 +22,22 @@
 
 Olá! Me chamo **Ketellin**, sou estudante de Análise e Desenvolvimento de Sistemas na **Uniritter** e grande entusiasta da tecnologia.
 
-Meu objetivo principal é atuar como desenvolvedora **Full-Stack com foco em Back-end e Dados**.
+Meu objetivo principal é atuar como desenvolvedora **Full-Stack**.
 
-Atualmente concentro meus estudos em lógica de programação, estruturas de dados e desenvolvimento de aplicações em Java.
+Atualmente concentro meus estudos em lógica de programação, estruturas de dados e desenvolvimento de aplicações web.
 
 ---
 
 ## 💻 Minhas stacks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma" />
+</p>
+
+## 📚 Atualmente estudando
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php" />
 </p>
 
 ## 🏆 GitHub Stats
