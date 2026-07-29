@@ -20,7 +20,7 @@
 
 ## 🔮 Sobre mim
 
-Olá! Me chamo **Ketellin**, sou estudante de Análise e Desenvolvimento de Sistemas na **Uniritter** e grande entusiasta da tecnologia.
+Olá! Me chamo **Ketellin**, sou estudante de Análise e Desenvolvimento de Sistemas na **Uniasselvi** e grande entusiasta da tecnologia.
 
 Meu objetivo principal é atuar como desenvolvedora **Full-Stack**.
 
@@ -28,16 +28,10 @@ Atualmente concentro meus estudos em lógica de programação, estruturas de dad
 
 ---
 
-## 💻 Minhas stacks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma" />
-</p>
-
 ## 📚 Atualmente estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,python,php,mysql" />
 </p>
 
 ## 🏆 GitHub Stats
